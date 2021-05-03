@@ -1,0 +1,5 @@
+﻿  Private.cpp
+  houses.cpp
+C:\Users\nikas\source\repos\houses\houses.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  houses.vcxproj -> C:\Users\nikas\source\repos\houses\Debug\houses.exe
